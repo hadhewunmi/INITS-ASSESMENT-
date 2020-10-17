@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-17T06:39:00Z" name="Default suite" finished-at="2020-10-17T06:40:44Z" duration-ms="104532">
+    <groups>
+    </groups>
+    <test started-at="2020-10-17T06:39:00Z" name="Default test" finished-at="2020-10-17T06:40:44Z" duration-ms="104532">
+      <class name="com.w2a.testcase.INITSNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcase.INITSNG@77307458]" started-at="2020-10-17T07:38:48Z" name="setUp" finished-at="2020-10-17T07:39:00Z" duration-ms="12033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AboutUs()[pri:1, instance:com.w2a.testcase.INITSNG@77307458]" started-at="2020-10-17T07:39:00Z" name="AboutUs" finished-at="2020-10-17T07:39:30Z" duration-ms="30382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method signature="JoinTheTeam()[pri:2, instance:com.w2a.testcase.INITSNG@77307458]" started-at="2020-10-17T07:39:30Z" name="JoinTheTeam" finished-at="2020-10-17T07:40:01Z" duration-ms="31247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinTheTeam -->
+        <test-method signature="ContactUS()[pri:3, instance:com.w2a.testcase.INITSNG@77307458]" started-at="2020-10-17T07:40:01Z" name="ContactUS" finished-at="2020-10-17T07:40:44Z" duration-ms="42876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUS -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.w2a.testcase.INITSNG@77307458]" started-at="2020-10-17T07:40:44Z" name="tearDown" finished-at="2020-10-17T07:40:46Z" duration-ms="1453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcase.INITSNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
